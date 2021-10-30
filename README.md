@@ -1,4 +1,4 @@
-# booknow
+# counterapp
 
 A new Flutter project.
 
